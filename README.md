@@ -4,7 +4,7 @@ Project Description: This project aims to test the functionality of the website 
 
 ## Test Coverage
 
-The project has been thoroughly tested and covers **66** points.
+The project has been thoroughly tested and covers **74** points.
 
 ## Tests
 
